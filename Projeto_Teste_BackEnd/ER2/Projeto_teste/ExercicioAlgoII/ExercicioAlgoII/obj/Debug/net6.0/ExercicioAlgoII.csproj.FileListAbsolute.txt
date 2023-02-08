@@ -1,0 +1,15 @@
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\bin\Debug\net6.0\ExercicioAlgoII.exe
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\bin\Debug\net6.0\ExercicioAlgoII.deps.json
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\bin\Debug\net6.0\ExercicioAlgoII.runtimeconfig.json
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\bin\Debug\net6.0\ExercicioAlgoII.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\bin\Debug\net6.0\ExercicioAlgoII.pdb
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.csproj.AssemblyReference.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.AssemblyInfoInputs.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.AssemblyInfo.cs
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.csproj.CoreCompileInputs.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\refint\ExercicioAlgoII.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.pdb
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ExercicioAlgoII.genruntimeconfig.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ER2\Projeto_teste\ExercicioAlgoII\ExercicioAlgoII\obj\Debug\net6.0\ref\ExercicioAlgoII.dll

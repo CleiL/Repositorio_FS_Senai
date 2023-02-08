@@ -1,0 +1,15 @@
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\bin\Debug\net6.0\APIISenac.exe
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\bin\Debug\net6.0\APIISenac.deps.json
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\bin\Debug\net6.0\APIISenac.runtimeconfig.json
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\bin\Debug\net6.0\APIISenac.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\bin\Debug\net6.0\APIISenac.pdb
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.csproj.AssemblyReference.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.AssemblyInfoInputs.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.AssemblyInfo.cs
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.csproj.CoreCompileInputs.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\refint\APIISenac.dll
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.pdb
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\APIISenac.genruntimeconfig.cache
+C:\Users\cleil\OneDrive\Senai\Senai Full Stack\UC15_Testes de Back-End\UC15\ATV ONLINE 2\TesteIMC\APIISenac\APIISenac\obj\Debug\net6.0\ref\APIISenac.dll
